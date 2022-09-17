@@ -1,2 +1,3 @@
 **Une image du modèle OSI ainsi qu'une brève description. Pour chaque couche du modèle OSI, donnez des exemples**
-jjio
+![modèle OSI](https://www.bing.com/images/search?view=detailV2&ccid=hcwCvryg&id=7C52C1CB7ED0D834860D4D2D65DF1078C8E893F2&thid=OIP.hcwCvrygwDTfdUHkonf2LQHaIj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f4000%2f1*-hQHFX-UjlruHDf9Je0lXg.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.85cc02bebca0c034df7541e4a277f62d%3frik%3d8pPoyHgQ32UtTQ%26pid%3dImgRaw%26r%3d0&exph=2312&expw=2000&q=modele+OSI&simid=608015452304774104&FORM=IRPRST&ck=5DAD35C8EBFE404EB06B8D9470158CB0&selectedIndex=0)
+
