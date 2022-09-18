@@ -27,3 +27,9 @@ Il est aussi utilisé dans des entrteprises par exemple, et ceci est le même pr
 __Dans la vidéo, on mentione l’adresse MAC. Expliquez en détail son utilité. Cette adresse est codée sur 48 bits en Hexadécimal. Après quelques recherches, expliquez ce qu’est un bit, un octet__
 
 L'adresse MAC (Media Acess Control ) est une adresse qui est unique à chaque appreil, suivant la postion qu'il a. Chaque appareil a une position spécifique, donc une adresse MAC spécifique.C'est donc l'adresse physique d'un équipement.
+
+Le bit est une unité d'information pouvant prendre la valeur 0 ou la valeur 1. C'est la quantité minimale d'information transmise par un message, et constitue à ce titre l'unité de mesure de base de l'information en informatique. Il est en base 2, la base binaire et n'utilise donc que deux chiffres. 0 ou 1.
+
+Un octet est un groupe de 8 bits, qui permet de coder jusqu'à 256 caractères différents. Il permet de coder des informations.
+
+__Egalement, on parle d’hexadécimal. Après recherches, donnez l’équivalent hexadécimal du nombre décimal 58, 40, 3, et 146. Vous pouvez vous aider d’un convertisseur en ligne. Vous apprendrez dans une prochaine activité comment passer de la notation décimal à hexadécimal ou binaire.__
