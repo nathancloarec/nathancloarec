@@ -35,6 +35,83 @@ Un octet est un groupe de 8 bits, qui permet de coder jusqu'à 256 caractères d
 __Egalement, on parle d’hexadécimal. Après recherches, donnez l’équivalent hexadécimal du nombre décimal 58, 40, 3, et 146. Vous pouvez vous aider d’un convertisseur en ligne. Vous apprendrez dans une prochaine activité comment passer de la notation décimal à hexadécimal ou binaire.__
 
 0D 58 = 0H 3A
+
 0D 40 = 0H 28
+
 0D 3 = 0H 3
+
 0D 146 = 0H 92
+
+__Donner la définition d’un réseau WAN.__
+
+Le WAN, Wide Area Network, est un réseau d'une plus grande étendue que le LAN, qui s'étant sur une plus grande zones géographiques et qui relie plusieurs réseaux de type LAN, et qui permet ainsi la communication entre plusieurs réseaux privés, intérieurs, car le WAN est un réseau de type extérieur, étendu.
+
+__L’adresse IP la plus couramment utilisée pour nos box internet à la maison est : 192.168.1.1. Donner l’écriture binaire de cette adresse IP (vous pouvez vous aider d’un convertisseur en ligne)__
+
+1 1 0 0 0 0 0 0 . 1 0 1 0 0 0 0 1 . 0 0 0 0 0 0 0 1 . 0 0 0 0 0 0 0 1 
+
+__Donnez deux exemples d’adresses IPv4 privéés de classe C. Les périphériques porteurs de ces adresses peuvent ils cohabiter sur le même réseau ?__
+
+192.168.1.0
+
+192.168.1.1
+
+192.168.1.255
+
+Oui ils peuvent cohabiter sur le même réseau car il y aura une adresse publique différente.
+
+__Renseignez vous sur la notation CIDR. Comment écrit on le masque 255.255.255.0 en notation CIDR ?__
+
+/24
+
+car la partie réseau correspond aux 24 bits les plus à gauche.
+
+__Rappeler ce que signifie DNS et son utilité__
+
+DNS, Domain Name Server. C'est grâce au DNS que la connexion s'établit car le DNS se charge de trouver la bonne adresse IP à chaque demande que nous allons faire au routeur, pour établir la connexion. Sans lui il faudrait à chaque fois rentrer l'adresse IP dont nous avons besoin de nous-même.
+
+__Rappeler ce que signifie DHCP et son utilité__
+
+DHCP, Dynamic Host Configuration Protocol. C'est un processus qui permet d'obtenir une adresse IP quand on ne l'a pas et que l'on veut se connecter à un réseau. C'est le meilleur protocole des 3 couches car il fait une relation entre les 3. Par exemple, je branche mon pc ( couche 1 ), je veux établir une connexion ( couche 2 ) mais je n'ai pas d'adresse IP donc le DHCP va demander une adresse IP et la trouver. ( liaison avec couche 2 car il va lui donner l'adresse IP )
+
+__Dans la vidéo, un test est effectué en ligne de commande (« ipconfig ») pour voir la configuration IP de l’ordinateur. Exécutez cette commande sur votre PC et joignez une capture d’écran__
+
+![Capture d’écran (27)](https://user-images.githubusercontent.com/112661363/190895998-21cf0176-b98c-40a8-b77b-5e8b80138529.png)
+
+__Quelle adresse IP nous indique un problème de configuration IP ?__
+
+192.168.1.1
+
+__Rappelez le port par défaut pour le protocole HTTP, HTTPS, FTP, SSH, Telnet, POP et SMTP. Pour chacun d’entre eux, expliquer brièvement leur utilité__
+
+HTTP = port 80, HTTPS = 443, FTP = 21, SSH = 22, Telnet = 23, POP = 110, SMTP = 25.
+
+Le sigle HTTP signifie "protocole de transfert hypertexte". Plus simplement, il désigne le protocole utilisé sur Internet pour transmettre les pages web. Sa principale utilisation est la consultation de serveurs web.
+
+L’intérêt principal du HTTPS est de garantir la sécurité des utilisateurs ainsi que des données que nous échangeons. En effet, cette sécurité empêche les attaques du type Man In The Middle
+
+Le ftp (File Transfer Protocol) est le protocole de transfert de fichiers. Autrement dit, ce protocole permet d'envoyer des fichiers de son disque dur vers un serveur distant.
+
+ Secure Shell (SSH) est un norme logicielle pour prendre en charge le transfert de données cryptées entre deux ordinateurs. Il peut être utilisé pour prendre en charge des connexions sécurisées, des transferts de fichiers ou des connexions à usage général.
+ 
+Telnet (terminal network ou telecommunication network, ou encore teletype network) est un protocole utilisé sur tout réseau TCP/IP, permettant de communiquer avec un serveur distant en échangeant des lignes de texte et en recevant des réponses également sous forme de texte.
+
+ le POP (Post Office Protocol) est un protocole qui permet de récupérer les courriers électroniques situés sur un serveur de messagerie électronique. En dehors d'un paramétrage spécifique, POP se connecte au serveur de messagerie, s'authentifie, récupère le courrier, peut effacer le courrier sur le serveur, et se déconnecte.
+ 
+ Le protocole SMTP (Simple Mail Transfer Protocol) est utilisé pour transmettre des messages électroniques sur Internet. Ce protocole est utilisé par la plupart des clients de messagerie pour remettre des messages au serveur, et est également utilisé par les serveurs pour transférer les messages vers leur destination finale.
+ 
+ __Listez les différents outils de dépanage cités dans la vidéo. Pour chacun d’entre eux, essayer la commande dans votre invite de commande Windows et joindre une capture d’écran du résultat. (Pour le ping, faites un ping de google.fr, idem pour tracert)__
+ 
+![Capture d’écran (28)](https://user-images.githubusercontent.com/112661363/190897228-3870197c-235d-4992-8058-cd5dfe3fe8e7.png)
+
+![Capture d’écran (29)](https://user-images.githubusercontent.com/112661363/190897231-09191f4d-39b7-4af8-a745-23f1ea2bb3e5.png)
+
+![Capture d’écran (30)](https://user-images.githubusercontent.com/112661363/190897244-c3cd8f21-dc19-4ce7-8a84-c9deb60f5b62.png)
+
+![Capture d’écran (31)](https://user-images.githubusercontent.com/112661363/190897267-f555a362-0a1c-43df-b9c6-8208cfce6ee6.png)
+
+
+
+
+
+
