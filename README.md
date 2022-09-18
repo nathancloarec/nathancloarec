@@ -33,3 +33,8 @@ Le bit est une unité d'information pouvant prendre la valeur 0 ou la valeur 1. 
 Un octet est un groupe de 8 bits, qui permet de coder jusqu'à 256 caractères différents. Il permet de coder des informations.
 
 __Egalement, on parle d’hexadécimal. Après recherches, donnez l’équivalent hexadécimal du nombre décimal 58, 40, 3, et 146. Vous pouvez vous aider d’un convertisseur en ligne. Vous apprendrez dans une prochaine activité comment passer de la notation décimal à hexadécimal ou binaire.__
+
+0D 58 = 0H 3A
+0D 40 = 0H 28
+0D 3 = 0H 3
+0D 146 = 0H 92
