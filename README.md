@@ -110,6 +110,8 @@ Telnet (terminal network ou telecommunication network, ou encore teletype networ
 
 ![Capture d’écran (31)](https://user-images.githubusercontent.com/112661363/190897267-f555a362-0a1c-43df-b9c6-8208cfce6ee6.png)
 
+![Capture d’écran (32)](https://user-images.githubusercontent.com/112661363/190897408-e7caba21-5e0e-4b60-8946-728b65699f94.png)
+
 
 
 
