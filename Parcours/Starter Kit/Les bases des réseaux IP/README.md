@@ -20,6 +20,8 @@ La sixième couche est la couche présentation, représentée par l'encryption (
 
 La dernière couche est la couche application et est représentée par Intenret, Chrome etc.
 
+---
+
 ## __2:Citez le nom de l'autre modèle couramment utilisé et joindre une photo__
 
 Le modèle TCP / IP est souvent utilisé.
