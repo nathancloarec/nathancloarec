@@ -28,6 +28,8 @@ Le modèle TCP / IP est souvent utilisé.
 
 ![OIP](https://user-images.githubusercontent.com/112661363/190890500-8884e458-9da8-4659-9138-77311ac8269a.jpg)
 
+---
+
 ## __3:Qu’est ce qu’un LAN ? Citez des exemples de LAN__
 
 Le LAN : le Local Area Network désigne un réseau d'une étendue limitée, utilisé donc dans un espace limité, intérieur, c'est à dire dans des domiciles privés par exemple, pour avoir un réseau local, intérieur.
